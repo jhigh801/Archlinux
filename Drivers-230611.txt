@@ -1,0 +1,9 @@
+intel-media-driver
+intel-compute-runtime
+level-zero-driver
+mesa-vdpau
+mesa
+libva-mesa-driver
+libva-utils
+xorg-drivers
+

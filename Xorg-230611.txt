@@ -1,0 +1,6 @@
+xorg-server
+xorg-server-common
+xorg-xinit
+xorg-xkill
+xterm
+xorg
