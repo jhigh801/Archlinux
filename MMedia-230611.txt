@@ -9,11 +9,6 @@ gst-plugins-bad
 gst-plugins-ugly
 gstreamer
 gstreamer-vaapi
-pipewire
-pipewire-alsa
-pipewire-jack
-pipewire-pulse
-wireplumber
 x264
 x265
 xvidcore
