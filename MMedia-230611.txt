@@ -2,7 +2,6 @@ alsa-card-profiles
 alsa-plugins
 alsa-firmware
 gst-libav
-gst-plugin-pipewire
 gst-plugins-base
 gst-plugins-good
 gst-plugins-bad
