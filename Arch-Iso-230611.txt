@@ -9,6 +9,7 @@ nm-connection-editor
 wpa_supplicant
 linux
 linux-headers
+linux-firmware
 rsync 
 python
 python-pip
