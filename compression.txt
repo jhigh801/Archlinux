@@ -1,0 +1,14 @@
+atool
+bzip2
+cpio
+gzip
+lhasa
+lzop
+p7zip
+tar
+unace
+unrar
+unzip
+xz
+zip
+

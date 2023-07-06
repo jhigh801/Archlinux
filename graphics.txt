@@ -1,0 +1,12 @@
+blender 
+inkscape
+gimp
+nitrogen
+neofetch 
+chafa
+catimg
+jp2a
+ffmpegthumbnailer
+jpegexiforient
+feh
+gpick

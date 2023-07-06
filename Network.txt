@@ -1,0 +1,6 @@
+networkmanager
+network-manager-applet
+nm-connection-editor
+wpa_supplicant
+iwd 
+iw
