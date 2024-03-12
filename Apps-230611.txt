@@ -9,4 +9,15 @@ vlc
 yt-dlp
 vim
 vim-runtime
+aria2
+atomicparsley
+python-mutagen
+python-websockets
+python-pycryptodomex
+python-pycryptodome
+python-brotli
+python-brotlicffi
+ffmpeg
+rtmpdump
+coin-or-mp
 
