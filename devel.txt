@@ -37,6 +37,7 @@ ipython
 python
 python-pip
 python-setuptools
+python-venv
 python-lockfile
 python-pysocks
 python-lxml
