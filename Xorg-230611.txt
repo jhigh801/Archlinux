@@ -1,5 +1,8 @@
 xorg-server
 xorg-server-common
+xorg-drivers
+level-zero-driver
+level-zero-loader
 xorg-xinit
 xorg-xkill
 xterm
