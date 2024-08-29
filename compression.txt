@@ -1,4 +1,6 @@
 atool
+arj
+unarj
 bzip2
 cpio
 gzip
