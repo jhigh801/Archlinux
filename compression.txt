@@ -5,12 +5,16 @@ bzip2
 cpio
 gzip
 lhasa
+lrzip
+lzip
 lzop
 p7zip
 tar
 unace
 unrar
 unzip
+unarchiver
+xarchiver
 xz
 zip
 
