@@ -2,5 +2,9 @@ networkmanager
 network-manager-applet
 nm-connection-editor
 wpa_supplicant
+dhcpcd
+openresolv
+network-regdb
+network_tools
 iwd 
 iw
