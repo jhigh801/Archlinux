@@ -1,6 +1,7 @@
 intel-media-driver
 intel-compute-runtime
 level-zero-driver
+level-zero-loader
 mesa-vdpau
 mesa
 libva-mesa-driver
