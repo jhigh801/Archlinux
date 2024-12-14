@@ -1,10 +1,14 @@
 networkmanager
 network-manager-applet
 nm-connection-editor
+bluez
+bluez-libs
+bluez-tools
+bluez-utils
 wpa_supplicant
+wireless_tools
+wireless-regdb
 dhcpcd
 openresolv
-network-regdb
-network_tools
 iwd 
 iw
