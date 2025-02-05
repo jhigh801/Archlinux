@@ -1,7 +1,7 @@
 filezilla
 firefox
 flatpak
-libreoffice-still
+libreoffice-fresh
 mpv
 neofetch
 qbittorrent
