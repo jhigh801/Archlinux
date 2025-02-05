@@ -4,6 +4,7 @@ pavucontrol
 pulseaudio-rtp
 pulseaudio-zeroconf
 pulseaudio-jack
+pulseaudio-bluetooth
 jack2
 gst-plugins-bad	
 gst-plugins-bad-libs	
