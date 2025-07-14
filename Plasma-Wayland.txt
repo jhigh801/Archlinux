@@ -149,8 +149,6 @@ otf-hermit-nerd
 otf-opendyslexic-nerd
 otf-overpass-nerd
 pacman-contrib
-paru-bin
-paru-bin-debug
 pavucontrol
 php
 plasma-desktop
@@ -371,7 +369,5 @@ xorg-xwininfo
 xorg-xwud
 xsel
 xterm
-yay
-yay-debug
 yt-dlp
 zip
