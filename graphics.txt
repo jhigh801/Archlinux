@@ -2,7 +2,7 @@ blender
 inkscape
 gimp
 nitrogen
-neofetch 
+fastfetch 
 chafa
 catimg
 jp2a
