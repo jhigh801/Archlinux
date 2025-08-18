@@ -16,4 +16,5 @@ libxkbfile
 luit
 ncurses
 xbitmaps
-
+xorg-server
+level-zero-loader
