@@ -11,7 +11,6 @@ go-tools
 neovim
 python-pynvim
 ruby
-ruby-docs
 ruby-reline
 rubygems
 numlockx
