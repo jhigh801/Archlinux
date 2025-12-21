@@ -18,4 +18,6 @@ xz
 gtk3
 unarchiver
 gzip
-
+unace 
+unrar
+xdg-utils
